@@ -1,7 +1,7 @@
 <div align="center">
   <img src="public/favicon.ico" height="100" width="100" alt="logo"/>
   
-# streamr
+# vstream
   A video streaming website.
 </div>
 
