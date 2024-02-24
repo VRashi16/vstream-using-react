@@ -6,15 +6,16 @@
 </div>
 
 ## **Demo**
-See Live Demo Here - https://ytstreamr.netlify.app
+See Live Demo Here - https://vstream-using-react.vercel.app/
 
-![image](https://github.com/Krushna-Kulkarni/streamr/assets/62604823/ba1739c2-aa67-426a-8972-3ed4ec31bc0c)
+
+![screencapture-vstream-using-react-vercel-app-2024-02-24-14_47_10](https://github.com/VRashi16/vstream-using-react/assets/42666448/79be40ed-a1a4-4723-b264-d0337988a1e1)
 
 
 ## **How to install and run locally ?**
 
 ```
-$ git clone https://github.com/Krushna-Kulkarni/streamr
+$ git clone
 $ cd streamr
 $ npm install
 $ npm start
